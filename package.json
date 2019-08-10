@@ -1,0 +1,12 @@
+{
+  "id": "standardnotes",
+  "name": "Standard notes",
+  "version": "1.0.0",
+  "description": "Standard Notes",
+  "main": "index.js",
+  "author": "Jesse Calvillo <jesse.calvillo@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.standardnotes.org/"
+  }
+}
